@@ -1,0 +1,3 @@
+    <app-index *ngIf="!this.isConfirm" (emitChange)="this.changeComponent($event)"></app-index>
+    <app-yes *ngIf="this.isConfirm"></app-yes>
+<router-outlet />
