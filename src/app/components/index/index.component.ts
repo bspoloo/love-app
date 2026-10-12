@@ -25,7 +25,7 @@ export class IndexComponent {
       'Estaré muy triste...',
       'Estaré muy muy muy triste...',
       'Está bien, dejaré de preguntar...',
-      'Solo bromeo, ¡di que sí por favor! ❤️',
+      'Solo bromeo, ¡di que sí por favor! xd',
     ];
   }
 
